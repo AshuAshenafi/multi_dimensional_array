@@ -1,0 +1,1 @@
+"#First the program prints ten rows numbered 1-10 and five columns numbered 1-5. Display them as a matrix. Second the program displays the multiplication tables for the values 1-12. Your multiplication tables should display as shown below. The intersection of a row value and a column value would be the product of the row * column." 
